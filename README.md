@@ -5,13 +5,13 @@ This is a 3 part individual class project for Data Mining at ASU
 ```
 ## SKILLS DEMONSTRATED
 ```
-PART 1:
+PART 1: (Branch Part-1)
    - Extract & Synchronize Feature data from two sensors.
    - Compute and report overall statistical measures from data.
-PART 2:
+PART 2: (Branch Part-2)
    - Develop code to train a machine model to classify given sample data.
    - Assess the accuracy of a machine model.
-PART 3:
+PART 3: (Branch Part-3)
    - Develop code that performs DBSCAN & KMeans clustering.
    - Test and analyze the results of the clustering code.
    - Assess the accuracy of the clustering using SSE and supervised clustering validity metrics.
